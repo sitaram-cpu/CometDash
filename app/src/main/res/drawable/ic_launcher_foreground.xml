@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Comet streak -->
+    <path
+        android:fillColor="#FF6E40"
+        android:fillAlpha="0.85"
+        android:pathData="M82,30 L92,20 L78,24 L86,16 L68,26 Q74,28 82,30 Z" />
+    <!-- Ship body -->
+    <path
+        android:fillColor="#4FD1E8"
+        android:pathData="M54,38
+                            C60,38 65,52 65,66
+                            L65,80
+                            L58,74
+                            L50,74
+                            L43,80
+                            L43,66
+                            C43,52 48,38 54,38 Z" />
+    <!-- Ship cockpit window -->
+    <path
+        android:fillColor="#0B0E23"
+        android:pathData="M54,50 m-6,0 a6,6 0 1,0 12,0 a6,6 0 1,0 -12,0" />
+    <!-- Ship fins -->
+    <path
+        android:fillColor="#2A9AAE"
+        android:pathData="M43,66 L33,78 L43,76 Z" />
+    <path
+        android:fillColor="#2A9AAE"
+        android:pathData="M65,66 L75,78 L65,76 Z" />
+    <!-- Thruster flame -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M48,80 L54,92 L60,80 L54,84 Z" />
+</vector>

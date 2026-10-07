@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comet Dash</string>
+
+    <string name="instructions">Arrastra para dirigir tu nave. Toca una estrella para explotarla y ganar puntos extra. ¡Esquiva los cometas — 3 impactos y pierdes!</string>
+
+    <string name="score_label">Puntos: %1$d</string>
+    <string name="lives_label">Vidas: %1$d</string>
+    <string name="pause">Pausa</string>
+    <string name="resume">Reanudar</string>
+    <string name="shield_active">¡ESCUDO ACTIVO!</string>
+
+    <string name="action_pause">Pausa</string>
+    <string name="action_high_scores">Puntuaciones</string>
+
+    <string name="game_over_title">Fin del juego</string>
+    <string name="game_over_message">¡Obtuviste %1$d puntos!</string>
+    <string name="play_again">Jugar de nuevo</string>
+    <string name="share_score">Compartir puntaje</string>
+    <string name="view_high_scores">Ver puntuaciones</string>
+    <string name="share_text">¡Obtuve %1$d puntos en Comet Dash! ¿Puedes superarme?</string>
+
+    <string name="new_high_score_prompt">¡Nueva puntuación alta! Escribe tus iniciales:</string>
+    <string name="name_hint">Tus iniciales (p. ej. SG)</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+
+    <string name="high_scores_title">Puntuaciones</string>
+    <string name="empty_high_scores">Aún no hay puntuaciones — ¡sé el primero!</string>
+    <string name="score_entry_format">%1$s — %2$d</string>
+    <string name="rank_number_placeholder">%1$d.</string>
+    <string name="new_badge">¡NUEVO!</string>
+    <string name="latest_result_format">Tu última partida: %1$d puntos</string>
+    <string name="clear_scores">Borrar todas las puntuaciones</string>
+    <string name="clear_confirm_message">Esto eliminará permanentemente todas las puntuaciones guardadas. ¿Continuar?</string>
+    <string name="clear">Borrar</string>
+
+    <string name="content_desc_ship">Tu nave. Arrastra hacia la izquierda o derecha para dirigirla.</string>
+    <string name="content_desc_game_area">Área de juego que muestra tu nave, los cometas que caen y las estrellas coleccionables.</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comet Dash</string>
+
+    <string name="instructions">Drag to steer your ship. Tap a star to pop it for bonus points. Dodge the comets — 3 hits and it\'s game over!</string>
+
+    <string name="score_label">Score: %1$d</string>
+    <string name="lives_label">Lives: %1$d</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="shield_active">SHIELD ACTIVE!</string>
+
+    <string name="action_pause">Pause</string>
+    <string name="action_high_scores">High Scores</string>
+
+    <string name="game_over_title">Game Over</string>
+    <string name="game_over_message">You scored %1$d points!</string>
+    <string name="play_again">Play Again</string>
+    <string name="share_score">Share Score</string>
+    <string name="view_high_scores">View High Scores</string>
+    <string name="share_text">I scored %1$d points in Comet Dash! Can you beat me?</string>
+
+    <string name="new_high_score_prompt">New high score! Enter your initials:</string>
+    <string name="name_hint">Your initials (e.g. SG)</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="high_scores_title">High Scores</string>
+    <string name="empty_high_scores">No scores yet — be the first!</string>
+    <string name="score_entry_format">%1$s — %2$d</string>
+    <string name="rank_number_placeholder">%1$d.</string>
+    <string name="new_badge">NEW!</string>
+    <string name="latest_result_format">Your last run: %1$d points</string>
+    <string name="clear_scores">Clear All Scores</string>
+    <string name="clear_confirm_message">This will permanently delete every saved high score. Continue?</string>
+    <string name="clear">Clear</string>
+
+    <string name="content_desc_ship">Your ship. Drag left and right to steer.</string>
+    <string name="content_desc_game_area">Game play area showing your ship, falling comets, and collectible stars.</string>
+</resources>
